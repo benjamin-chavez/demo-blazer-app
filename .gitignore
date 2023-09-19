@@ -1,0 +1,55 @@
+# .gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# .NET Core build output
+bin/
+obj/
+
+# IDE generated files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files (Mono Auto Generated Files)
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Bash config
+*.bash_history
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Other files and directories to ignore
+.DS_Store
